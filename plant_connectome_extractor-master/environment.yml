@@ -1,0 +1,18 @@
+name: plant_connectome_extraction
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy
+  - tqdm
+  - requests
+  - biopython
+  - lxml
+  - ca-certificates
+  - certifi
+  - openssl
+  - networkx
+  - matplotlib
+  - typer
+  - html5lib
+  - beautifulsoup4

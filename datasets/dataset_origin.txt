@@ -1,0 +1,21 @@
+DATASET ORIGIN
+
+
+- BECHTOLD (drought vs. water) 
+Time-Series Transcriptomics Reveals That AGAMOUS-LIKE22 Affects Primary Metabolism and Developmental Processes in Drought-Stressed Arabidopsis
+Ulrike Bechtold, et al.
+
+
+- GSE5612 (circadian) 
+Circadian expression of genes: modelling the Arabidopsis circadian clock
+ 	Edwards K, Millar A, Townsend H, Emmerson Z, Schildknecht B.
+
+
+- 12730555174222  -- MILLAR (circadian)
+Using higher-order dynamic bayesian networks to model periodic data from the circadian clock of arabidopsis thaliana
+Daly, Rónán, Kieron D. Edwards, John S. O’Neill, Stuart Aitken, Andrew J. Millar, and Mark Girolami
+
+
+- MMC (circadian) 
+Circadian autonomy and rhythmic precision of the Arabidopsis female reproductive organ 
+by   Masaaki Okada, Zhiyuan Yang, Paloma Mas

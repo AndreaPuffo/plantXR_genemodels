@@ -1,0 +1,40 @@
+Brainstorm/Discussion Fri 30 aug 2024
+
+Integrated model --> model sensitivity pipeline
+Analysis --> what genes are the most important 
+What kind of experiments are the most important 
+
+- Step 1 define resilience
+--> Area and growth rate of leaves
+
+
+- Step 2 experimental work
+--> decide mutants, hormones measurements, decide/measurement relevant phenotype
+
+
+- Step 3 data analysis 
+--> RNAseq; phenotype analysis, GWAS; hormone analysis
+
+- Step 4 developing model building blocks
+--> noise incomplete data timescales --> Me
+finding module --> ben
+Infer interactions --> ben
+Driver genes --> keygene
+Identify link to phenotypes --> keygene
+
+--> Mechanistic models: monica
+
+- Step 5 model integration 
+--> integrate ML + mechanistic --> Dick 
+--> integrate hormonal genetic models with plant architecture --> Kirsten 
+
+- Step 6 model sensitivity --> Me 
+--> which changes optimise a trait
+Key genes have the most effect
+Model parts are most uncertain and require more data
+Experiments to be more informative
+(e.g. use framework Arabidopsis model Millar) 
+
+
+- Step 7 validation and smart data experiments
+--> Christa + Martijn 
